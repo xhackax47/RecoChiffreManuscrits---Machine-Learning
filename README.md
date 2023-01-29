@@ -2,6 +2,9 @@
 
 Ce projet me sert à expérimenter le machine learning à travers d'un dataset pour la reconnaissance des chiffres manuscrits.
 
+[Notebook](https://colab.research.google.com/drive/111UBhv3yeeCp2QUO5Hln4O4y6AygRQrK?usp=sharing#scrollTo=lIOGY2gfKpHQ)
+
+
 ## Environnement
 
 Nous aurons besoin de Python dernière version, l'IDE Spyder et Anaconda3 pour mettre tout en place.
