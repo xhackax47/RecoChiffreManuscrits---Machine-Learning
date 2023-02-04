@@ -2,8 +2,8 @@
 
 Ce projet me sert à expérimenter le machine learning à travers d'un dataset pour la reconnaissance des chiffres manuscrits.
 
-[Notebook](https://colab.research.google.com/drive/111UBhv3yeeCp2QUO5Hln4O4y6AygRQrK?usp=sharing#scrollTo=lIOGY2gfKpHQ)
-
+ ![Example de fonctionnement de l'IA 1](https://i.ibb.co/7Kbh27n/Capture-d-cran-2023-02-04-165212.png)
+ ![Example de fonctionnement de l'IA 2](https://i.ibb.co/cbprZX2/Capture-d-cran-2023-02-04-165237.png)
 
 ## Environnement
 
@@ -33,3 +33,7 @@ conda install nomdumoduleainstaller
 - Votre nouvel environnement ne sera listé ici que si vous avez installé Miniconda (ou Anaconda) dans le chemin par défaut comme indiqué dans le tableau ci-dessus.
 
 - Cliquez sur Restart kernel dans le menu Consoles pour que ce changement prenne effet.
+
+## Notebook
+
+[Notebook](https://colab.research.google.com/drive/111UBhv3yeeCp2QUO5Hln4O4y6AygRQrK?usp=sharing#scrollTo=lIOGY2gfKpHQ)
