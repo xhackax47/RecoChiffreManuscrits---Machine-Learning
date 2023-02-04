@@ -1,6 +1,6 @@
 # RecoChiffresManuscrits - Machine Learning
 
-Ce projet me sert à expérimenter le machine learning à travers d'un dataset pour la reconnaissance des chiffres manuscrits.
+Ce projet me sert à expérimenter le machine learning à travers le dataset Digits du package SKLearn pour la reconnaissance des chiffres manuscrits.
 
  ![Example de fonctionnement de l'IA 1](https://i.ibb.co/7Kbh27n/Capture-d-cran-2023-02-04-165212.png)
  ![Example de fonctionnement de l'IA 2](https://i.ibb.co/cbprZX2/Capture-d-cran-2023-02-04-165237.png)
