@@ -36,4 +36,4 @@ conda install nomdumoduleainstaller
 
 ## Notebook
 
-[Notebook](https://colab.research.google.com/drive/111UBhv3yeeCp2QUO5Hln4O4y6AygRQrK?usp=sharing#scrollTo=lIOGY2gfKpHQ)
+[Notebook](https://colab.research.google.com/drive/172BwdixRSQDJIaUbIlEddCMelLa0nZjS)
